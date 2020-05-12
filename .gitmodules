@@ -1,0 +1,6 @@
+[submodule "Battle_Buddies_Backend"]
+	path = Battle_Buddies_Backend
+	url = https://github.com/bryanlubay/video_game_matcher_backend
+[submodule "Battle_Buddies_Frontend"]
+	path = Battle_Buddies_Frontend
+	url = https://github.com/bryanlubay/video_game_matcher_frontend
